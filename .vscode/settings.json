@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "charconv": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "list": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "limits": "cpp",
+        "ranges": "cpp",
+        "ratio": "cpp",
+        "shared_mutex": "cpp",
+        "valarray": "cpp",
+        "version": "cpp",
+        "array": "cpp"
+    }
+}
