@@ -1,4 +1,3 @@
-# adventofcode2021
 coding advent of code
 
 c++ is a nice language
