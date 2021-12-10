@@ -15,6 +15,10 @@
         "shared_mutex": "cpp",
         "valarray": "cpp",
         "version": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "cmath": "cpp",
+        "random": "cpp",
+        "regex": "cpp",
+        "type_traits": "cpp"
     }
 }
