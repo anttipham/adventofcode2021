@@ -19,6 +19,7 @@
         "cmath": "cpp",
         "random": "cpp",
         "regex": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "iomanip": "cpp"
     }
 }
