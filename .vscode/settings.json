@@ -20,6 +20,10 @@
         "random": "cpp",
         "regex": "cpp",
         "type_traits": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "initializer_list": "cpp"
     }
 }
