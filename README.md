@@ -9,6 +9,6 @@ i guess i should do harder (= more algorithmic) coding problems than these but m
 
 Notes:
 
-Problem 16 skipped because it's really just about coding a parser. I'm solving algorithmic problems, not doing some parsers.
+Day 16 skipped because it's really just about coding a parser. I'm solving algorithmic problems, not doing some parsers.
 
-Problem 19 skipped because that is just a big programming project. I want to do problems, not projects.
+Day 19 skipped because that is a big programming project. I don't want to do a whole project in one day. (And I'm not sure if my mathematical knowledge is enough for it, although brute forcing does skip the mathematics :D)
